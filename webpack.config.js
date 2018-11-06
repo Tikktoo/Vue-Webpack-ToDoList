@@ -37,7 +37,7 @@ const config = {
                 ]
             }
         ]
-    }，
+    }
       // webpack插件配置
     plugins:[
         new webpack.DefinePlugin({
